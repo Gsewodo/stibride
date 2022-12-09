@@ -15,5 +15,5 @@ git clone https://github.com/Gsewodo/stibride.git
 $ cd stibride/
 $ mvn javafx:run
 ```
-# auteur
+# author
 SEWODO 
